@@ -1,0 +1,9 @@
+{
+	"name": "TestFactoryJim",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a791061-290a-4194-802e-31c89b339049",
+		"tenantId": "83eb5a13-9c91-4074-8a32-03f7e5ad460f"
+	}
+}
